@@ -22,9 +22,9 @@ myString.strip("Hd") # ello Worl
 myString.count("l") # 3
 
 # String Slicing
-myString[3:] # lo World     (3. indexten sona kadar)
-myString[:3] # Hel          (0. indexten 3. indexe kadar)
-myString[3:7] # lo W        (3. indexten 7. indexe kadar)
+myString[3:] # lo World     
+myString[:3] # Hel             
+myString[3:7] # lo W       
 
 barcode = "12345678910"
 product = barcode[0:3] + "-" + barcode[3:7] + "-" + barcode[7:12]

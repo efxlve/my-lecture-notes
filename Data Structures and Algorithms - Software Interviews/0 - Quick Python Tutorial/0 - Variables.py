@@ -7,7 +7,7 @@ type(pi) # float
 x = 4.4
 type(x) # float
 
-x = "Merhaba"
+x = "Hello World"
 type(x) # str
 
 x = True

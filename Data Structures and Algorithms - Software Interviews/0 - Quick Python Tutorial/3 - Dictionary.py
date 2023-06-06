@@ -1,4 +1,4 @@
-#Dictionary (Sözlük) : Key-Value (Anahtar-Değer) yapısı ile çalışır.
+#Dictionary is a data structure that stores key-value pairs.
 
 myDictionary = {
     "apple" : 100,
