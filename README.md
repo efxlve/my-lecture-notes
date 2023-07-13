@@ -20,4 +20,4 @@ The topics covered in this repo are:
 - Data Structures and Algorithms
 
 ## License
-This repo is published under the MIT license. For more information, please see the [LICENSE](https://github.com/efxlve/Lecture-Notes/blob/main/LICENSE) file.
+This repo is published under the MIT license. For more information, please see the [LICENSE](https://github.com/efxlve/lecture-notes/blob/main/LICENSE) file.
